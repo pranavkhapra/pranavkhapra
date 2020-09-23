@@ -5,3 +5,4 @@
 - 💬 Ask/Tell me about Web/Game development. 
 - 📫 How to reach me: Follow me here on github to be keep yourself updated with my works.
 - ⚡ Fun fact: No course Can Teach You anything until u start teaching yourself
+(https://github-readme-stats.vercel.app/api?username=pranavkhapra)](https://github.com/anuraghazra/github-readme-stats)

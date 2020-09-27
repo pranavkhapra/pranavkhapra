@@ -1,8 +1,2 @@
 
-
--   I am Pranav Khapra,just another self taught person, tech lover.
-- 🔭 I’m currently working on two domains:Web and Game Development.
-- 💬 Ask/Tell me about Web/Game development. 
-- 📫 How to reach me: Follow me here on github to be keep yourself updated with my works.
-- ⚡ Fun fact: No course Can Teach You anything until u start teaching yourself
-
+Hi, I'm Pranav Khapra, a Web/Game  Developer from India, currently, I'm a Senpai in my life. I love solving problems even though I  end up searching for the solution. Unlike engineering, I enjoy watching Anime. You can call me a weeb-developer(sorry bad joke)...

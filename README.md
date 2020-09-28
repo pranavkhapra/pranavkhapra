@@ -1,2 +1,3 @@
 
 Hi, I'm Pranav Khapra, a Web/Game  Developer from India, currently, I'm a Senpai in my life. I love solving problems even though I  end up searching for the solution. Unlike engineering, I enjoy watching Anime. You can call me a weeb-developer(sorry bad joke)...
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pranavkhapra)](https://github.com/anuraghazra/github-readme-stats)

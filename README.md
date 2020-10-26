@@ -1,7 +1,7 @@
 ![](https://i.pinimg.com/originals/fb/10/e1/fb10e16ce8776e6b7e4d4213a16d4344.jpg)
 
 
-Hi, I'm Pranav Khapra, a Web/Game  Developer from India, currently, I'm a Senpai in my life. I love solving problems even though I  end up searching for the solution. Unlike engineering, I enjoy watching Anime. You can call me a weeb-developer(sorry bad joke)...
+Hi, I'm Pranav Khapra, a Web/Game  Developer from India. I love solving problems even though I  end up searching for the solution. Unlike engineering, I enjoy watching Anime. You can call me a weeb-developer(sorry bad joke)...
 
 
 

@@ -1,4 +1,4 @@
-(https://i.pinimg.com/originals/fb/10/e1/fb10e16ce8776e6b7e4d4213a16d4344.jpg)
+![](https://i.pinimg.com/originals/fb/10/e1/fb10e16ce8776e6b7e4d4213a16d4344.jpg)
 
 <div>
 <h1>Hi ✌️, I'm Pranav Khapra, a Web  Developer from India. I love solving problems even though I  end up searching for the solution.</h1>

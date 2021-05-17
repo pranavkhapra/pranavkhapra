@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me💜</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/pranav-khapra-b507831a5/?originalSubdomain=in" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-  <a href= https://twitter.com/pranavkhapra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/></a>
+  <a href="https://twitter.com/pranavkhapra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/></a>
   <a href= "https://www.instagram.com/just_a_random_person_to_ignore/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png"/></a>
   <a href="https://github.com/pranavkhapra/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>                                   </p>
 
